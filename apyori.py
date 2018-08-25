@@ -3,6 +3,7 @@
 """
 a simple implementation of Apriori algorithm by Python.
 """
+#libraries
 
 import sys
 import csv

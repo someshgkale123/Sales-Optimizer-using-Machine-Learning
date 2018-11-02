@@ -6,4 +6,4 @@ Using Apriori model on dataset of 1000 customers in the grocery store, the owner
 
 The file name apyori contain different rules for matching the items that are picked side by side, which can be imported as a library in code to find the items that are picked several times in a pair.   
 
-# libraries : numpy, sklearn, pandas, matplotlib, apriori  
+ libraries : numpy, sklearn, pandas, matplotlib, apriori  
